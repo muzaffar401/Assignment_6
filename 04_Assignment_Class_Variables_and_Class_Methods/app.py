@@ -10,7 +10,7 @@ class Bank:  # class ka naam capital letter se start hota hai (best practice)
 
 # Pehle do object banaye Bank class ke
 account1 = Bank()
-account2 = Bank()
+account2 = Bank() 
 
 # Dono objects ka bank name check karte hain (same hoga)
 print("before.........")
